@@ -1,4 +1,7 @@
 # QuizStar-
+
+<img src="https://github.com/GPAMBD/QuizStar-/blob/main/Report%20Screenshots/logo.png"></img>
+
 Exam quiz software ( Question paper building , Answering and results evaluation )
 
 Quiz Star is basically a desktop application that is developed by
@@ -13,7 +16,9 @@ multiple features and smooth, excellent performance to the users.
 The software consists of two separate interfaces for Teacher and
 Student
 
-<img src="https://github.com/GPAMBD/QuizStar-/blob/main/home_page.jpg"></img>
+<img src="https://github.com/GPAMBD/QuizStar-/blob/main/Report%20Screenshots/1.png
+"></img>
+
 
 The QuizStar provides an efficient way to manage an Examination
 and connect with students intellectually by offering Two interfaces
@@ -36,9 +41,16 @@ The Features offered by QuizStar to Students:
  
  
 ➢ Teacher Login
+
+<img src="https://github.com/GPAMBD/QuizStar-/blob/main/Report%20Screenshots/2.png
+"></img>
+
 To Access the QuizStar features the teacher has to Log in with the
 QuizStar Teacher account by entering the login credentials –
 Username and Password.
+
+<img src="https://github.com/GPAMBD/QuizStar-/blob/main/Report%20Screenshots/3.png
+"></img>
 
 If the teacher doesn’t have a QuizStar Account then the teacher can
 click on “new user? Sign Up!” in order to register on QuizStar.
@@ -49,6 +61,8 @@ account.
 After completing the details click on “Submit” Button, it will save all
 the details.
 
+<img src="https://github.com/GPAMBD/QuizStar-/blob/main/Report%20Screenshots/4.png
+"></img>
 
 If in case, the teacher has forgotten their password they can click
 “Forgot Password” to set a new password for their Account.
@@ -60,6 +74,13 @@ OTP”
 An OTP (one time password will be received on the registered
 mobile number.
 
+<img src="https://github.com/GPAMBD/QuizStar-/blob/main/Report%20Screenshots/5.png
+"></img>
+
+
+<img src="https://github.com/GPAMBD/QuizStar-/blob/main/Report%20Screenshots/6.png
+"></img>
+
 As we click “Send OTP” button the message (OTP) will be sent and
 The user will be directed to the above window.
 
@@ -67,16 +88,27 @@ Here the user has to enter the OTP received on the register mobile
 number. If the OTP is filled correctly the user will be shown the next
 screen to reset the password.
 
+<img src="https://github.com/GPAMBD/QuizStar-/blob/main/Report%20Screenshots/7.png
+"></img>
+
 The user will enter the new password and confirm password and the
 password for that QuizStar account will be changed.
 
 ➢ Student Login
 
+<img src="https://github.com/GPAMBD/QuizStar-/blob/main/Report%20Screenshots/8.png
+"></img>
+
 To Access the QuizStar features the Student has to Log in with the
 QuizStar Student account by entering the login credentials –
 Username and Password.
+
 If the Student doesn’t have a QuizStar Account then the Student can
 click on “new user? Sign Up!” in order to register on QuizStar.
+
+<img src="https://github.com/GPAMBD/QuizStar-/blob/main/Report%20Screenshots/9.png
+"></img>
+
 To create a new Student account on QuizStar the Student would
 have to fill the above details and then set a password for the
 account.
@@ -91,14 +123,23 @@ Features provided for Teachers:
 
 • Create Quiz
 
+
+
 This feature provides teacher with a simple and
 interesting, interactive console through which teacher can
 build Examination Question paper / Quiz.
+
+<img src="https://github.com/GPAMBD/QuizStar-/blob/main/Report%20Screenshots/10.png
+"></img>
+
+
+<img src="https://github.com/GPAMBD/QuizStar-/blob/main/Report%20Screenshots/11.png
+"></img>
+
 Steps for building question paper in Quiz Star:
 1) Give the quiz name at the top box on the screen.
 2) Note the unique quiz code (which will be further
-provided to students by teacher to answer the
-examination)
+provided to students by teacher to answer the examination)
 3) Enter the first question in the question section
 4) Provide four options for Multiple choice question
 5) Select / Tick the option for correct answer.
@@ -113,9 +154,16 @@ button and the paper will be saved
 
 This feature provides teacher with a simple and
 interesting, interactive console through which teacher can
-view his/her
-Existing Exam Question paper.
+view his/her Existing Exam Question paper.
+
 Select a quiz name to view the Question Paper.
+
+<img src="https://github.com/GPAMBD/QuizStar-/blob/main/Report%20Screenshots/12.png
+"></img>
+
+<img src="https://github.com/GPAMBD/QuizStar-/blob/main/Report%20Screenshots/13.png
+"></img>
+
 The selected question paper will be displayed on the screen with the
 quiz name, quiz code, questions and options selected by the teacher
 
@@ -127,7 +175,12 @@ options
 
 This feature provides the teacher with a simple and interesting,
 interactive console through which teachers are able to view the
-student’s response for their specific quiz
+student’s response for their specific quiz.
+
+<img src="https://github.com/GPAMBD/QuizStar-/blob/main/Report%20Screenshots/14.png
+"></img>
+
+
 The teacher will be able to see the quiz name, Student
 name, Student Marks and date and time.
 The QuizStar is automated with the marks calculating
@@ -139,6 +192,9 @@ details after the student appears the Examination
 This feature provides the teacher with a simple and
 interesting, interactive console through which teachers
 are able to view their personal Information.
+
+<img src="https://github.com/GPAMBD/QuizStar-/blob/main/Report%20Screenshots/15.png
+"></img>
 
 The teacher is able to view following details:
 ❖ Name
@@ -159,9 +215,16 @@ Features provided for Students:
 This feature provides Student with a simple and
 interesting, interactive console through which Student can
 answer Examination Question paper / Quiz.
+
+<img src="https://github.com/GPAMBD/QuizStar-/blob/main/Report%20Screenshots/16.png
+"></img>
+
 By clicking on the “Answer quiz” button a new window will be
 opened in which the student has to enter the Quiz Code provided by
 the teacher for the examination in order to start the exam. 
+
+<img src="https://github.com/GPAMBD/QuizStar-/blob/main/Report%20Screenshots/17.png
+"></img>
 
 Instructions for Answering question paper in QuizStar:
 
@@ -183,8 +246,13 @@ This is a very important feature which provides Student
 with and interesting, interactive console through which
 student can view his/her results of each Exam paper they
 have attempted.
+
+<img src="https://github.com/GPAMBD/QuizStar-/blob/main/Report%20Screenshots/18.png
+"></img>
+
 This helps the students to monitor their performance in all subjects
 and it keeps the record of Date and time.
+
 The QuizStar is automated with the marks calculating feature, Date
 and time record feature which shows these details after the student
 appears the Examination.
@@ -194,6 +262,9 @@ appears the Examination.
 This feature provides the student with a simple and
 interesting, interactive console through which teachers
 are able to view their personal Information.
+
+<img src="https://github.com/GPAMBD/QuizStar-/blob/main/Report%20Screenshots/19.png
+"></img>
 
 The teacher is able to view following details:
 
