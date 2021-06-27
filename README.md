@@ -17,6 +17,7 @@ Student
 
 The QuizStar provides an efficient way to manage an Examination
 and connect with students intellectually by offering Two interfaces
+
 * Teacher Interface
 * Student Interface
 
@@ -47,6 +48,8 @@ have to fill the above details and then set a password for the
 account.
 After completing the details click on “Submit” Button, it will save all
 the details.
+
+
 If in case, the teacher has forgotten their password they can click
 “Forgot Password” to set a new password for their Account.
 The above window will be prompted after pressing the forgot
@@ -56,11 +59,14 @@ given at the time of registration on QuizStar) and click on “Send
 OTP” 
 An OTP (one time password will be received on the registered
 mobile number.
+
 As we click “Send OTP” button the message (OTP) will be sent and
 The user will be directed to the above window.
+
 Here the user has to enter the OTP received on the register mobile
 number. If the OTP is filled correctly the user will be shown the next
 screen to reset the password.
+
 The user will enter the new password and confirm password and the
 password for that QuizStar account will be changed.
 
@@ -74,6 +80,7 @@ click on “new user? Sign Up!” in order to register on QuizStar.
 To create a new Student account on QuizStar the Student would
 have to fill the above details and then set a password for the
 account.
+
 After completing the details click on “Submit” Button, it will save all
 the details.
 The Forgot Password feature for Student login is same as the teacher
@@ -101,7 +108,9 @@ questions (Multiple questions can be added)
 button and the paper will be saved
 8) If you want to cancel the quiz you can press the
 “Exit” button.
+
 • My Quizzes
+
 This feature provides teacher with a simple and
 interesting, interactive console through which teacher can
 view his/her
@@ -195,9 +204,12 @@ The teacher is able to view following details:
 ❖ Class
 ❖ Password
 
+
 The user can click
 the “Change password” Button to reset password.
 The “logout button” at the right bottom is used to quit
 from the Teacher QuizStar Account.
+
+Special Thanks to Mr. Dahiwal Sir
 
 THANK YOU!
