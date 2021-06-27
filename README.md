@@ -197,7 +197,10 @@ interactive console through which teachers are able to view the
 student’s response for their specific quiz.
 
 
+
 <img src="https://github.com/GPAMBD/QuizStar-/blob/main/Report%20Screenshots/14.png"></img>
+
+
 
 
 The teacher will be able to see the quiz name, Student
@@ -214,16 +217,23 @@ interesting, interactive console through which teachers
 are able to view their personal Information.
 
 
+
 <img src="https://github.com/GPAMBD/QuizStar-/blob/main/Report%20Screenshots/15.png"></img>
+
 
 
 <h4>The teacher is able to view following details:</h4>
 
 ❖ Name
+
 ❖ Username
+
 ❖ Phone No.
+
 ❖ Subject
+
 ❖ Institute
+
 ❖ Password
 
 The user can click the “Change password” Button to reset
@@ -241,12 +251,14 @@ interesting, interactive console through which Student can
 answer Examination Question paper / Quiz.
 
 
+
 <img src="https://github.com/GPAMBD/QuizStar-/blob/main/Report%20Screenshots/16.png"></img>
 
 
 By clicking on the “Answer quiz” button a new window will be
 opened in which the student has to enter the Quiz Code provided by
 the teacher for the examination in order to start the exam. 
+
 
 
 <img src="https://github.com/GPAMBD/QuizStar-/blob/main/Report%20Screenshots/17.png"></img>
@@ -300,11 +312,17 @@ are able to view their personal Information.
 <h4>The teacher is able to view following details:</h4>
 
 ❖ Name
+
 ❖ Username
+
 ❖ Phone No.
+
 ❖ Enrollment No.
+
 ❖ Class
+
 ❖ Password
+
 
 
 The user can click
@@ -312,6 +330,5 @@ the “Change password” Button to reset password.
 The “logout button” at the right bottom is used to quit
 from the Teacher QuizStar Account.
 
-Special Thanks to Mr. Dahiwal Sir
 
 <h1>THANK YOU!</h1>
