@@ -13,7 +13,7 @@ multiple features and smooth, excellent performance to the users.
 The software consists of two separate interfaces for Teacher and
 Student
 
-# QUIZ STAR
+<img src="https://github.com/GPAMBD/QuizStar-/blob/main/home_page.jpg"></img>
 
 The QuizStar provides an efficient way to manage an Examination
 and connect with students intellectually by offering Two interfaces
